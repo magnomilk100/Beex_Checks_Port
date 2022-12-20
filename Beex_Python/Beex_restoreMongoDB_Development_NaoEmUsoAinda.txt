@@ -1,0 +1,1 @@
+mongorestore /h localhost:27017 /d development /dir C:/Users/MagnodaSilvaLeite(t2/Documents/Magno_Personal/Beex/Database_Mongodb_tableBackup/28_03_2022AntesAtualizacao/development
